@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/m-Afnan2018/Temmp/issues"
   },
-  "homepage": "https://github.com/m-Afnan2018/Temmp/tree/Backend#readme"
+  "homepage": "https://github.com/m-Afnan2018/Temmp/tree/Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
