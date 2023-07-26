@@ -5,6 +5,7 @@ app.get('/', (req, res)=>{
     res.status(200).json({
         success: true,
         message: 'Server Started Successfully',
+        secret: process.env.REACT_APP_BASE_URL,
     })
 })
 
